@@ -40,11 +40,43 @@ header{
 }
 
 #profile-image {
-    width: 100px;
-    height: 80px; 
+    width: 600px;
+    height: 800px; 
     border: 5px solid #2f6d3d;
     margin-bottom: 15px;
     border-radius: 10%;
+}
+
+#project1-image {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#project3-image {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#project8-image {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#project1-image {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 h1 {
@@ -135,4 +167,16 @@ footer {
     background-color:#2f6d3d;
     color: white;
     border-radius: 8px;
+}
+
+#project8-title {
+    color: darkgreen;
+}
+
+#project3-title {
+    color: darkgreen;
+}
+
+#project1-title {
+    color: darkgreen;
 }
